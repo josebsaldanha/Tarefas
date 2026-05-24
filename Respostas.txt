@@ -1,0 +1,4 @@
+5.R: Ao instanciarmos o produto2 não afeta o produto1.
+Porquê produto2 é apenas uma instância da classe produto e não tem como afetar outra instância.
+
+6.R: Se esquecermos o this dentro do metodo o PHP vai procurar uma variavel local dentro do próprio metido
